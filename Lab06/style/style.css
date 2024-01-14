@@ -1,0 +1,120 @@
+.habits h1{
+    font-size: 50px;
+    text-align: center;
+    color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu{
+    text-align:center;
+    list-style-type: none;
+    color: rgb(0, 242, 255);
+    font-size: 150%;
+}
+.liste{
+    text-align:center;
+    list-style-type: none;
+    color: rgb(108, 193, 23);
+    font-size: 150%;
+
+}
+.liens{
+    text-align:center;
+    list-style-type: none;
+    color: blueviolet;
+    font-size: 150%;
+}
+.tenue1{
+    text-align:center;
+    list-style-type: none;
+    color: crimson;
+}
+.titre{
+    text-align:center;
+    list-style-type: none;
+    color: plum;
+}
+.texte{
+    text-align:center;
+    list-style-type: none;
+    color: olive;
+    font-size: 150%;
+}
+.manger{
+    text-align:center;
+    list-style-type: none;
+    color: deeppink;
+}
+.tenue2{
+    text-align:center;
+    list-style-type: none;
+    color: teal;
+     
+}
+.boire{
+    text-align:center;
+    list-style-type: none;
+    color: darkblue; 
+    font-size: 150%;
+
+}
+.prix1{
+    text-align:center;
+    list-style-type: none;
+    color: rgb(235, 189, 91); 
+    font-size: 150%;   
+}
+.prix{
+    text-align:center;
+    list-style-type: none;
+    color: rgb(235, 189, 91); 
+    font-size: 150%;
+}
+.vendu{
+    text-align:center;
+    list-style-type: none; 
+    color: orange;  
+}
+.tenue3{
+    text-align:center;
+    list-style-type: none; 
+    color: rgb(84, 216, 101);
+}
+.aaa{
+    text-align:center;
+    list-style-type: none; 
+    font-size: 150%; 
+}
+.prix3{
+    text-align:center;
+    list-style-type: none; 
+    color: rgb(231, 185, 102); 
+    font-size: 150%; 
+}
+ .royal{
+    text-align:center;
+    list-style-type: none;
+    color: rgb(96, 187, 157);
+ } 
+ .prince{
+    text-align:center;
+    list-style-type: none;
+    color: rgb(111, 111, 236); 
+ }
+ .noire{
+    text-align:center;
+    list-style-type: none;
+    color: darkkhaki;
+    font-size: 150%;
+ }
+ .prix3{
+    text-align:center;
+    list-style-type: none;
+    color: darkorchid;
+    font-size: 150%;
+ }
+ .auteur{
+    text-align:center;
+    list-style-type: none;
+    color: rgb(50, 204, 58);
+ }
+
